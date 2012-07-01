@@ -1,0 +1,17 @@
+{
+	"category" : "FS-Git-Monticello",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"remote",
+		"pushAutomatically" ],
+	"name" : "MCOSGitRepository",
+	"pools" : [
+		 ],
+	"super" : "MCGitRepository",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

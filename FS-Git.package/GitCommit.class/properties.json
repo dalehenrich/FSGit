@@ -1,0 +1,19 @@
+{
+	"category" : "FS-Git-Plumbing-Core",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"tree",
+		"parents",
+		"author",
+		"committer" ],
+	"name" : "GitCommit",
+	"pools" : [
+		 ],
+	"super" : "GitTaglikeObject",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

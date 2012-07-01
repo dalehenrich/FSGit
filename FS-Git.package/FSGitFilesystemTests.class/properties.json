@@ -1,0 +1,16 @@
+{
+	"category" : "FS-Git-Tests",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FSGitFilesystemTests",
+	"pools" : [
+		 ],
+	"super" : "FSFilesystemTest",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

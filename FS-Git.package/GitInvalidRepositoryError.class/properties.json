@@ -1,0 +1,16 @@
+{
+	"category" : "FS-Git-Plumbing-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GitInvalidRepositoryError",
+	"pools" : [
+		 ],
+	"super" : "GitError",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

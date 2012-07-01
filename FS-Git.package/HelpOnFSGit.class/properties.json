@@ -1,0 +1,16 @@
+{
+	"category" : "FS-Git-Help",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HelpOnFSGit",
+	"pools" : [
+		 ],
+	"super" : "CustomHelp",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

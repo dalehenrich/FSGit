@@ -1,0 +1,17 @@
+{
+	"category" : "FS-Git-Remote",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"refs",
+		"socketStream" ],
+	"name" : "GitProtocol",
+	"pools" : [
+		 ],
+	"super" : "AbstractGitProtocol",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

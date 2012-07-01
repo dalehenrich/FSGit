@@ -1,0 +1,21 @@
+{
+	"category" : "FS-Git-Monticello",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"classFolder",
+		"definitions",
+		"className",
+		"classDefinition",
+		"instanceMethodDefinitions",
+		"classMethodDefinitions" ],
+	"name" : "MCGitClassReader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

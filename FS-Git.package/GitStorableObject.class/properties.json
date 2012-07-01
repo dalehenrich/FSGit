@@ -1,0 +1,16 @@
+{
+	"category" : "FS-Git-Plumbing-Core",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"integerHash" ],
+	"name" : "GitStorableObject",
+	"pools" : [
+		 ],
+	"super" : "GitObject",
+	"traitcomposition" : "{}",
+	"type" : "normal" }
