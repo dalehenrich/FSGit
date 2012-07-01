@@ -1,0 +1,3 @@
+helpers
+referenceMessage
+	^'testfile commit'

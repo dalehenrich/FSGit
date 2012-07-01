@@ -1,0 +1,3 @@
+helpers
+treeEntryName
+	^ 'a filename'

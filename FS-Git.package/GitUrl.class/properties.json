@@ -1,0 +1,14 @@
+{
+	"category" : "FS-Git-Remote",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GitUrl",
+	"pools" : [
+		 ],
+	"super" : "HierarchicalUrl",
+	"type" : "normal" }

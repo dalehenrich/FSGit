@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"entries:" : "MaxLeske 6/26/2010 22:42",
+		"typeCode" : "tonyg 2/22/2010 07:17" },
+	"instance" : {
+		"accept:" : "CamilloBruni 6/21/2011 06:15",
+		"at:" : "MaxLeske 6/26/2010 22:38",
+		"byteData" : "CamilloBruni 6/22/2011 05:48",
+		"entries" : "MaxLeske 6/26/2010 22:28",
+		"entries:" : "MaxLeske 6/26/2010 22:42",
+		"entryAt:" : "tonyg 2/23/2010 19:10",
+		"entryAt:ifAbsent:" : "MaxLeske 10/11/2010 23:14",
+		"entryAt:ifPresent:ifAbsent:" : "MaxLeske 10/18/2010 09:46",
+		"initialize" : "tonyg 2/23/2010 20:18",
+		"isEmpty" : "CamilloBruni 5/19/2011 19:28",
+		"isTree" : "CamilloBruni 7/15/2011 19:22",
+		"loadFrom:" : "MaxLeske 6/26/2010 16:35",
+		"objects" : "CamilloBruni 7/19/2011 18:23",
+		"printOn:" : "CamilloBruni 7/5/2011 16:54",
+		"putEntry:" : "MaxLeske 7/10/2010 10:17",
+		"removeEntryAt:" : "tonyg 2/23/2010 19:14",
+		"removeEntryAt:ifAbsent:" : "CamilloBruni 5/17/2011 18:42",
+		"saveTo:" : "CamilloBruni 6/22/2011 05:47",
+		"signature" : "CamilloBruni 7/5/2011 13:13",
+		"size" : "MaxLeske 6/8/2010 22:36",
+		"validate" : "CamilloBruni 6/22/2011 03:52",
+		"validateIn:" : "CamilloBruni 6/22/2011 04:12" } }

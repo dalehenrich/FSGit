@@ -1,0 +1,3 @@
+helpers
+tagTypeCode
+	^ GitTag typeCode

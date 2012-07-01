@@ -1,0 +1,14 @@
+{
+	"category" : "FS-Git-Plumbing-Notifications",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GitRepositoryDeleteRequest",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

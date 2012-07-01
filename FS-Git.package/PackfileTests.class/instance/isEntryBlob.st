@@ -1,0 +1,3 @@
+helpers
+isEntryBlob
+	^ self hasBlobSignature

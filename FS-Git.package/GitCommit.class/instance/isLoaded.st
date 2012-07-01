@@ -1,0 +1,3 @@
+lazy-loading
+isLoaded
+	^ isLoaded

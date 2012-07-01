@@ -1,0 +1,14 @@
+{
+	"category" : "FS-Git-Plumbing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"stream" ],
+	"name" : "GitStream",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

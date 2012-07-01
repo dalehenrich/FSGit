@@ -1,0 +1,3 @@
+helpers
+treeTypeCode
+	^ GitTree typeCode

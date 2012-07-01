@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"for:" : "MaxLeske 4/29/2010 18:05",
+		"from:" : "MaxLeske 5/9/2010 13:13",
+		"loadFrom:" : "MaxLeske 5/25/2011 18:09" },
+	"instance" : {
+		"=" : "MaxLeske 5/9/2010 15:15",
+		"asGitSignature" : "CamilloBruni 1/23/2012 18:18",
+		"byteSignatureFor:" : "CamilloBruni 5/19/2011 21:19",
+		"bytes" : "MaxLeske 7/23/2010 14:53",
+		"computeSignatureFor:" : "MaxLeske 5/8/2010 20:41",
+		"from:" : "MaxLeske 5/9/2010 13:32",
+		"hash" : "MaxLeske 7/24/2010 17:14",
+		"hexHash" : "MaxLeske 7/23/2010 14:53",
+		"hexHashFrom:" : "MaxLeske 5/9/2010 14:38",
+		"integerHash" : "MaxLeske 7/23/2010 14:54",
+		"integerHashFrom:" : "MaxLeske 7/30/2011 16:29",
+		"printOn:" : "MaxLeske 5/8/2010 20:42",
+		"saveTo:" : "MaxLeske 7/31/2010 17:51" } }

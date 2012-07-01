@@ -1,0 +1,3 @@
+helpers
+commitMessage
+	^ 'the message'

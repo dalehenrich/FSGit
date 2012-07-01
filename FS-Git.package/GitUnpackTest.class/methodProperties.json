@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"unpack:" : "mml 1/15/2012 21:36" },
+	"instance" : {
+		"readEntryLength" : "mml 1/15/2012 22:11",
+		"readEntryType" : "mml 1/15/2012 22:08",
+		"readObjectCount" : "mml 1/15/2012 22:11",
+		"readObjectEntries" : "mml 1/15/2012 22:12",
+		"readPackSignature" : "mml 1/15/2012 22:12",
+		"readPackVersion" : "mml 1/15/2012 22:12",
+		"unpack:" : "mml 1/15/2012 22:11" } }

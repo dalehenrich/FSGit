@@ -1,0 +1,3 @@
+private
+readFinalObjectSize
+	^ self readVariableInteger

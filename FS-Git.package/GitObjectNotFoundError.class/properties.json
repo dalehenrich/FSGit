@@ -1,0 +1,14 @@
+{
+	"category" : "FS-Git-Plumbing-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"data" ],
+	"name" : "GitObjectNotFoundError",
+	"pools" : [
+		 ],
+	"super" : "GitError",
+	"type" : "normal" }

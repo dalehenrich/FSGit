@@ -1,0 +1,14 @@
+{
+	"category" : "FS-Git-Remote",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GitDumbHtppProtocol",
+	"pools" : [
+		 ],
+	"super" : "GitHttpProtocol",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+helpers
+blobTypeCode
+	^ GitBlob typeCode

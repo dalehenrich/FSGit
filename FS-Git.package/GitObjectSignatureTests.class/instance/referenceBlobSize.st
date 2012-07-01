@@ -1,0 +1,3 @@
+helpers
+referenceBlobSize
+	^8

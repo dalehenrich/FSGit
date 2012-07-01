@@ -1,0 +1,14 @@
+{
+	"category" : "FS-Git-Plumbing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"entries" ],
+	"name" : "GitTree",
+	"pools" : [
+		 ],
+	"super" : "GitStorableObject",
+	"type" : "normal" }

@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"for:" : "MaxLeske 6/26/2010 16:03",
+		"new" : "MaxLeske 6/26/2010 16:04",
+		"objectFrom:from:" : "MaxLeske 6/26/2010 12:11",
+		"objectFrom:from:ifAbsent:" : "CamilloBruni 7/6/2011 16:03",
+		"objectNamed:from:" : "MaxLeske 6/26/2010 11:28",
+		"objectNamed:from:ifAbsent:" : "CamilloBruni 7/6/2011 16:02",
+		"objectWithSignature:from:" : "MaxLeske 6/26/2010 13:16",
+		"objectWithSignature:from:ifAbsent:" : "CamilloBruni 7/6/2011 16:02" },
+	"instance" : {
+		"initializeOn:" : "MaxLeske 6/26/2010 16:04",
+		"objectFrom:" : "MaxLeske 8/11/2011 22:00",
+		"objectFrom:from:" : "MaxLeske 6/26/2010 16:57",
+		"objectNamed:" : "CamilloBruni 7/6/2011 16:05",
+		"objectNamed:from:" : "MaxLeske 6/26/2010 12:47",
+		"objectNamed:from:ifAbsent:" : "CamilloBruni 7/6/2011 16:03",
+		"objectNamed:ifAbsent:" : "CamilloBruni 7/6/2011 16:05",
+		"objectWithSignature:" : "MaxLeske 8/11/2011 22:07",
+		"objectWithSignature:from:" : "MaxLeske 6/26/2010 12:44",
+		"objectWithSignature:from:ifAbsent:" : "CamilloBruni 7/6/2011 16:04",
+		"objectWithSignature:ifAbsent:" : "CamilloBruni 7/6/2011 16:25" } }

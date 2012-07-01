@@ -1,0 +1,3 @@
+saving
+saveFixedKeysTo: aStream
+	self subclassResponsibility

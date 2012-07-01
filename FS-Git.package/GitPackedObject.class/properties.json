@@ -1,0 +1,20 @@
+{
+	"category" : "FS-Git-Plumbing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pack",
+		"file",
+		"decodeClass",
+		"length",
+		"headerPos",
+		"unpackedBytes",
+		"repository" ],
+	"name" : "GitPackedObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

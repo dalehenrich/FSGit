@@ -1,0 +1,3 @@
+exception handling
+unsupportedOperation: aString
+	GitUnsupportedOperationError signal: aString

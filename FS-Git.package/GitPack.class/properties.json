@@ -1,0 +1,18 @@
+{
+	"category" : "FS-Git-Plumbing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"idx",
+		"basePath",
+		"fanoutTable",
+		"objectCount",
+		"packData" ],
+	"name" : "GitPack",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

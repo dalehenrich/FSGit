@@ -1,0 +1,3 @@
+helpers
+blobContents
+	^ 'aString' asByteArray
