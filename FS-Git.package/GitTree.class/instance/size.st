@@ -1,4 +1,4 @@
-testing
+public-testing
 size
 	| total |
 	total := 0.

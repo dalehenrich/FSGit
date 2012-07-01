@@ -2,8 +2,8 @@
 	"class" : {
 		"byteTypeCode" : "MaxLeske 2/29/2012 14:25",
 		"forType:" : "MaxLeske 2/29/2012 15:10",
-		"fromLooseStream:in:" : "MaxLeske 2/29/2012 18:56",
-		"fromPackedStream:type:in:" : "MaxLeske 2/29/2012 19:24",
+		"fromLooseObjectStream:in:" : "MaxLeske 7/1/2012 19:35",
+		"fromPackedObjectStream:type:in:" : "MaxLeske 7/1/2012 19:33",
 		"isAbstract" : "MaxLeske 2/29/2012 15:13",
 		"named:in:" : "MaxLeske 2/28/2012 15:13",
 		"typeCode" : "MaxLeske 2/29/2012 14:22",

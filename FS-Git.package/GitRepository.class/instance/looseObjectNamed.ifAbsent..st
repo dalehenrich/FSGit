@@ -6,5 +6,5 @@ looseObjectNamed: aHexHash ifAbsent: aBlock
 			streamLooseObjectNamed: aHexHash
 			ifAbsent: [ ^ aBlock value ].
 	^ GitStorableObject 
-		fromLooseStream: stream
+		fromLooseObjectStream: stream
 		in: self
