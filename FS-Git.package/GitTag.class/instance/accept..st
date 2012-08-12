@@ -1,3 +1,5 @@
 visiting
 accept: aVisitor
-	^ aVisitor visitTag: self.
+	aVisitor 
+		visitTag: self;
+		visit: self object

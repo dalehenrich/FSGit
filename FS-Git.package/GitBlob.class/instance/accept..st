@@ -1,3 +1,3 @@
 visiting
 accept: aVisitor
-	^ aVisitor visitBlob: self.
+	aVisitor visitBlob: self

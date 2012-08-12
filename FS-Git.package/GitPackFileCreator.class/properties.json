@@ -1,0 +1,21 @@
+{
+	"category" : "FS-Git-Plumbing-Packs",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"packFile",
+		"hashes",
+		"treeHashes",
+		"blobHashes",
+		"commitHashes",
+		"repository" ],
+	"name" : "GitPackFileCreator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

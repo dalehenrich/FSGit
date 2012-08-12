@@ -1,7 +1,9 @@
 {
 	"class" : {
-		"on:in:" : "MaxLeske 2/29/2012 18:03" },
+		"on:in:" : "MaxLeske 2/29/2012 18:03",
+		"pack:" : "MaxLeske 8/12/2012 13:47" },
 	"instance" : {
+		"delete" : "MaxLeske 8/12/2012 13:33",
 		"indexFile" : "MaxLeske 6/23/2012 20:13",
 		"initializeIndex" : "MaxLeske 6/26/2012 16:57",
 		"initializeWith:in:" : "MaxLeske 6/23/2012 20:39",
@@ -13,6 +15,7 @@
 		"readStream" : "MaxLeske 6/23/2012 17:09",
 		"reference" : "MaxLeske 2/29/2012 18:47",
 		"reference:" : "MaxLeske 2/29/2012 18:48",
+		"repackWithoutDelification" : "MaxLeske 8/5/2012 18:09",
 		"repository" : "MaxLeske 2/29/2012 17:46",
 		"repository:" : "MaxLeske 2/29/2012 17:46",
 		"unpack" : "MaxLeske 6/23/2012 16:56" } }

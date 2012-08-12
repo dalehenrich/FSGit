@@ -6,6 +6,6 @@ validateUnreachableObjects
 	self collectUnreachableErrors.
 	unreachableCopy := unreachable copy.
 	reachableCopy := reachable copy.
-	self acceptCollection: unreachable.
+	self visit: unreachable.
 	reachable := reachableCopy.
 	unreachable := unreachableCopy.

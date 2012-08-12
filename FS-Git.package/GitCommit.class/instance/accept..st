@@ -1,3 +1,5 @@
 visiting
 accept: aVisitor
-	^ aVisitor visitCommit: self.
+	aVisitor 
+		visitCommit: self;
+		visit: self tree

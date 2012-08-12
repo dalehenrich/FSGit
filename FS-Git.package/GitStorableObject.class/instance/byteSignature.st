@@ -1,4 +1,4 @@
-private
+accessing
 byteSignature
 	| stream data |
 	stream := GitStream new.
