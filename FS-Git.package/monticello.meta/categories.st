@@ -6,6 +6,7 @@ SystemOrganization addCategory: #'FS-Git-Plumbing-Utilities'!
 SystemOrganization addCategory: #'FS-Git-Plumbing-Notifications'!
 SystemOrganization addCategory: #'FS-Git-Plumbing-Exceptions'!
 SystemOrganization addCategory: #'FS-Git-Plumbing-Tests'!
+SystemOrganization addCategory: #'FS-Git-Plumbing-Traits'!
 SystemOrganization addCategory: #'FS-Git-Remote'!
 SystemOrganization addCategory: #'FS-Git-Tests'!
 SystemOrganization addCategory: #'FS-Git-Help'!

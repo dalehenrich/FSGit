@@ -2,7 +2,7 @@
 	"category" : "FS-Git-Plumbing-Packs",
 	"classinstvars" : [
 		 ],
-	"classtraitcomposition" : "{}",
+	"classtraitcomposition" : "TGitVisitor classTrait",
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
@@ -12,10 +12,11 @@
 		"treeHashes",
 		"blobHashes",
 		"commitHashes",
-		"repository" ],
+		"repository",
+		"tagHashes" ],
 	"name" : "GitPackFileCreator",
 	"pools" : [
 		 ],
 	"super" : "Object",
-	"traitcomposition" : "{}",
+	"traitcomposition" : "TGitVisitor",
 	"type" : "normal" }

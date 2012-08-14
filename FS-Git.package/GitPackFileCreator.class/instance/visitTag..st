@@ -1,3 +1,6 @@
 visiting
 visitTag: aTag
-	self notYetImplemented 
+	self addObject: aTag to: self tagHahes.
+	aTag isLightWeightTag ifTrue: [ ^ self ].
+	
+	self visit: aTag object

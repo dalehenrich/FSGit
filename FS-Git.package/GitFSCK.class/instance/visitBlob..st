@@ -1,3 +1,7 @@
 visiting
 visitBlob: aBlob
-	self validate: aBlob.
+	(self isReachable: aBlob) ifTrue: [ ^ self].
+	
+	self 
+		mark: aBlob;
+		validate: aBlob

@@ -15,4 +15,4 @@ testWriteObjectsOn
 	
 	self assert: contents size equals: blob compressedForPack size.
 	self shouldnt: [ bytesRead := (ZLibReadStream on: contents) contents ] raise: Error.
-	self assert: bytesRead equals: blob byteSignature
+	self assert: bytesRead equals: blob byteData
