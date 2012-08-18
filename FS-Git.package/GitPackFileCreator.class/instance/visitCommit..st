@@ -1,6 +1,6 @@
 visiting
 visitCommit: aCommit
-	self addObject: aCommit to: self commitHashes.
 	self 
+		addObject: aCommit;
 		visitTree: aCommit tree;
 		visitCollection: aCommit parents

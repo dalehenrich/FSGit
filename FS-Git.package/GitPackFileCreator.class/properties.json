@@ -9,11 +9,7 @@
 	"instvars" : [
 		"packFile",
 		"hashes",
-		"treeHashes",
-		"blobHashes",
-		"commitHashes",
-		"repository",
-		"tagHashes" ],
+		"repository" ],
 	"name" : "GitPackFileCreator",
 	"pools" : [
 		 ],

@@ -1,5 +1,5 @@
 visiting
 visitTag: aTag
-	self isLightWeightTag ifTrue: [ ^ self ].
+	aTag isLightWeightTag ifTrue: [ ^ self ].
 	
 	self visitCommit: aTag object

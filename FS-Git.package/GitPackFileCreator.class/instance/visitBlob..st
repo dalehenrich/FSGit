@@ -1,3 +1,3 @@
 visiting
 visitBlob: aBlob
-	self addObject: aBlob to: self blobHashes
+	self addObject: aBlob

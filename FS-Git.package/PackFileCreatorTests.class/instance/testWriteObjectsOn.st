@@ -9,10 +9,9 @@ testWriteObjectsOn
 		repository: repository;
 		yourself.
 	file := FSFilesystem memory root / 'afile'.
-	file writeStreamDo: [ :stream | creator writeObjects: {blob hash} on: stream ].
+	file writeStreamDo: [ :stream | creator on: stream ].
 	contents := file readStreamDo: [ :stream | stream contents ].
-	contents := contents allButFirst: 2. "ignore header".
-	
+	contents := contents allButFirst: 2.	"ignore header"
 	self assert: contents size equals: blob compressedForPack size.
 	self shouldnt: [ bytesRead := (ZLibReadStream on: contents) contents ] raise: Error.
 	self assert: bytesRead equals: blob byteData
