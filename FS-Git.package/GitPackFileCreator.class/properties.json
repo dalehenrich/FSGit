@@ -8,8 +8,9 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"packFile",
-		"hashes",
-		"repository" ],
+		"repository",
+		"orderedHashes",
+		"hashDict" ],
 	"name" : "GitPackFileCreator",
 	"pools" : [
 		 ],

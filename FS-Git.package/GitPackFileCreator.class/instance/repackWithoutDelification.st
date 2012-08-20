@@ -3,5 +3,6 @@ repackWithoutDelification
 	self 
 		visitRepository: self packFile repository;
 		writePackFile;
-		writeFinalPackFileName
+		writeIndexFile;
+		writeFileNames
 	

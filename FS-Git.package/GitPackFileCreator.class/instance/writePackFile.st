@@ -1,4 +1,4 @@
-operations
+operations-writing
 writePackFile
 	self packFile reference writeStreamDo: [ :stream |
 		self
