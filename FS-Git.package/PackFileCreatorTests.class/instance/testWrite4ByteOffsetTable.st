@@ -1,5 +1,5 @@
 tests-index
-testWriteOffsetTablesOn
+testWrite4ByteOffsetTable
 	| byteStream |
 	byteStream := (ByteArray streamContents: [ :stream | creator writeOffsetTablesOn: stream ]) readStream.
 	self assert: 4 * 7 equals: byteStream contents size.

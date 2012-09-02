@@ -1,3 +1,3 @@
 accessing
 recordOffset: anInteger for: aHash
-	self hashDict at: aHash put: (anInteger asByteArrayOfSize: 4)
+	self hashDict at: aHash put: anInteger
