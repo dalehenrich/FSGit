@@ -1,7 +1,7 @@
 tests
 testCommitHash
 	| entryHash treeEntry tree message commit commitDataSize |
-	entryHash := SecureHashAlgorithm new hashMessage: #[1 2 3 ].
+	entryHash := (GitHash from: #[1 2 3 ]) hash.
 	treeEntry :=
 		GitTreeEntry
 			fileNamed: 'file1' hash: entryHash.

@@ -10,7 +10,10 @@
 		"packFile",
 		"repository",
 		"orderedHashes",
-		"hashDict" ],
+		"hashDict",
+		"sortedHashes",
+		"indexFile",
+		"packFileChecksum" ],
 	"name" : "GitPackFileCreator",
 	"pools" : [
 		 ],

@@ -8,4 +8,4 @@ calculatePackChecksum
 	packData := packReader next: position.
 	packReader position: position.
 	
-	^ (SecureHashAlgorithm new hashMessage: packData)
+	^ GitHash from: packData

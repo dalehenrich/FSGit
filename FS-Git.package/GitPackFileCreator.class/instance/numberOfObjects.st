@@ -1,3 +1,3 @@
 accessing
 numberOfObjects
-	^ self hashSet size
+	^ self hashDict size

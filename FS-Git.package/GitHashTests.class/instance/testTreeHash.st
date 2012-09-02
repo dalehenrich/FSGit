@@ -1,8 +1,8 @@
 tests
 testTreeHash
 	| hash1 hash2 entry1 entry2 tree dataSize1 dataSize2 stream treeDataSize treeHash |
-	hash1 := SecureHashAlgorithm new hashMessage: #[1 2 3].
-	hash2 := SecureHashAlgorithm new hashMessage: #[4 5 6 7].
+	hash1 := (GitHash from: #[1 2 3]) hash.
+	hash2 := (GitHash from: #[4 5 6 7]) hash.
 	treeHash := #[83 30 221 175 161 242 190 210 135 98 78 1 20 103 113 251 149 188 122 146].
 	entry1 := 
 		GitTreeEntry

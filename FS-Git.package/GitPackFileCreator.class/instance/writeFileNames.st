@@ -1,6 +1,8 @@
 operations-writing
 writeFileNames
-	| finalHash message |
-	message := (self hashes asSortedCollection gather: [ :integer | integer asByteArray ]) asByteArray.
-	finalHash := SecureHashAlgorithm new hashMessage: message.
-	self packFile reference moveTo: self packFile reference parent / ('pack-', finalHash asHexHash), 'pack'
+	| finalHash message name |
+	message := (self sortedHashes gather: [ :integer | integer asByteArray ]) asByteArray.
+	finalHash := GitHash from: message.
+	name := self packFile reference parent / ('pack-', finalHash hexHash).
+	self packFile reference moveTo: name, 'pack'.
+	self indexFile reference moveTo: name, 'idx'

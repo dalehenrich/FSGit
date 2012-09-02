@@ -7,7 +7,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"sortedHashes",
+		"hashDict",
+		"creator",
+		"repository" ],
 	"name" : "PackFileCreatorTests",
 	"pools" : [
 		 ],

@@ -1,0 +1,16 @@
+{
+	"category" : "FS-Git-Plumbing-Utilities",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"integerHash" ],
+	"name" : "GitHash",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

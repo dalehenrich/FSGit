@@ -12,7 +12,8 @@
 		"fanoutTable",
 		"fourByteOffsetStream",
 		"hashStream",
-		"eightByteOffsetStream" ],
+		"eightByteOffsetStream",
+		"reference" ],
 	"name" : "GitIndexFile",
 	"pools" : [
 		 ],

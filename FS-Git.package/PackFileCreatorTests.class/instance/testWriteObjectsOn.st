@@ -7,9 +7,11 @@ testWriteObjectsOn
 	blob store.
 	creator := GitPackFileCreator new
 		repository: repository;
+		instVarNamed: 'orderedHashes' put: (OrderedCollection with: blob hash);
+		instVarNamed: 'hashDict' put: (Dictionary with: blob hash -> 21);
 		yourself.
 	file := FSFilesystem memory root / 'afile'.
-	file writeStreamDo: [ :stream | creator on: stream ].
+	file writeStreamDo: [ :stream | creator writeObjectsOn: stream ].
 	contents := file readStreamDo: [ :stream | stream contents ].
 	contents := contents allButFirst: 2.	"ignore header"
 	self assert: contents size equals: blob compressedForPack size.

@@ -9,8 +9,10 @@
 		"boundsFor:" : "MaxLeske 6/23/2012 19:35",
 		"crcAt:" : "MaxLeske 6/24/2012 09:57",
 		"findBinary:from:to:" : "MaxLeske 6/24/2012 20:06",
-		"indexForFanout:" : "MaxLeske 6/23/2012 19:24",
+		"indexForFanout:" : "MaxLeske 9/1/2012 10:21",
 		"indexForObjectNamed:" : "MaxLeske 6/24/2012 20:09",
 		"initializeWith:" : "MaxLeske 6/24/2012 15:49",
 		"offsetForIndex:" : "MaxLeske 6/24/2012 20:10",
-		"offsetForObjectNamed:" : "MaxLeske 6/24/2012 20:15" } }
+		"offsetForObjectNamed:" : "MaxLeske 6/24/2012 20:15",
+		"reference" : "MaxLeske 8/29/2012 15:38",
+		"reference:" : "MaxLeske 8/29/2012 15:39" } }

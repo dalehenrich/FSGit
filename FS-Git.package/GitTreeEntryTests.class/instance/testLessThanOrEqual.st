@@ -1,7 +1,7 @@
 tests
 testLessThanOrEqual
 	| entry1 entry2 entry3 entry4 entry5 hash |
-	hash := SecureHashAlgorithm new hashMessage: #[1 2 3].
+	hash := (GitHash from: #[1 2 3]) hash.
 	entry1 := GitTreeEntry 
 		fileNamed: 'Connencton.doc'
 		hash: hash.

@@ -1,9 +1,10 @@
-operations-writing
+operations-writing-index
 writeIndexFile
 	self indexFile reference writeStreamDo: [ :stream | 
 		self
 			writeIndexFileHeaderOn: stream;
 			writeFanoutTableOn: stream;
-			writeCRCTableOn: stream
-			writeOffsetTablesOn: stream ].
-	self writeIndexFileTrailer
+			writeObjectNamesOn: stream;
+			writeCRCTableOn: stream;
+			writeOffsetTablesOn: stream;
+			writeIndexFileTrailerOn: stream ]

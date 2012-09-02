@@ -1,4 +1,4 @@
-operations-writing
+operations-writing-index
 writeIndexFileHeaderOn: aStream
 	aStream
 		nextPutAll: self indexFileIdentifier;

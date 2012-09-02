@@ -1,7 +1,7 @@
-operations-writing
+operations-writing-pack
 writeObjectsOn: aStream
-	self hashes do: [ :hash || object |
+	self sortedHashes do: [ :hash || object |
 		object := self repository objectNamed: hash asHexHash.
+		self recordOffset: aStream position for: hash.
 		self writeObjectHeader: object on: aStream.
-		self recordOffset: aStream position for: object.
 		aStream nextPutAll: object compressedForPack ]

@@ -1,4 +1,4 @@
-operations-writing
+operations-writing-pack
 writeObjectHeader: anObject on: aStream
 	| type size byte |
 	type := anObject class byteTypeCode. "e.g. 2r00110000"
