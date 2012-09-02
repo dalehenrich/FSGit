@@ -1,3 +1,0 @@
-public-accessing
-committer
-	^ committer

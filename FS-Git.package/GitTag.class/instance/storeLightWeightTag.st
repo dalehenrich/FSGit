@@ -1,3 +1,0 @@
-storing
-storeLightWeightTag
-	self updateTagRef

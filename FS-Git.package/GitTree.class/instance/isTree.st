@@ -1,3 +1,0 @@
-public-testing
-isTree
-	^ true

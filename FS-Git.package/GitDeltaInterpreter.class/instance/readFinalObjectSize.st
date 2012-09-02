@@ -1,3 +1,0 @@
-processing
-readFinalObjectSize
-	^ self readVariableInteger

@@ -1,3 +1,0 @@
-storing
-storeFixedKeysOn: aStream
-	self subclassResponsibility

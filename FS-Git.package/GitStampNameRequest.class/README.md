@@ -1,1 +1,0 @@
-I provide a mechanism to handle a request for the name used in a GitStamp object before it triggers an input form. This is especially useful for testing purposes and scripts.

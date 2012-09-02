@@ -1,3 +1,0 @@
-processing
-unpack
-	self subclassResponsibility

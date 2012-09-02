@@ -1,3 +1,0 @@
-private
-validKeys
-	self subclassResponsibility

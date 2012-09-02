@@ -1,3 +1,0 @@
-accessing
-branchNames
-	^ repository branchNames
