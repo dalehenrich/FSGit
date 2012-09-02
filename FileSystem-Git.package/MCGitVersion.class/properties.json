@@ -1,0 +1,16 @@
+{
+	"category" : "FileSystem-Git-Monticello",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"filesystem" ],
+	"name" : "MCGitVersion",
+	"pools" : [
+		 ],
+	"super" : "MCVersion",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

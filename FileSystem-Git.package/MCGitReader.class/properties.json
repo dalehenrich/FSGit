@@ -1,0 +1,20 @@
+{
+	"category" : "FileSystem-Git-Monticello",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"infoCache",
+		"definitions",
+		"info",
+		"dependencies",
+		"package" ],
+	"name" : "MCGitReader",
+	"pools" : [
+		 ],
+	"super" : "MCReader",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

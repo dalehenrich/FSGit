@@ -1,0 +1,16 @@
+{
+	"category" : "FileSystem-Git-Remote",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GitUrl",
+	"pools" : [
+		 ],
+	"super" : "HierarchicalUrl",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

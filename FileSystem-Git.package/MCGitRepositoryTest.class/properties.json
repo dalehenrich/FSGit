@@ -1,0 +1,16 @@
+{
+	"category" : "FileSystem-Git-Monticello-Tests",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"filesystem" ],
+	"name" : "MCGitRepositoryTest",
+	"pools" : [
+		 ],
+	"super" : "MCRepositoryTest",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

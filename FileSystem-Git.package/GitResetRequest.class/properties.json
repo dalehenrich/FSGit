@@ -1,0 +1,16 @@
+{
+	"category" : "FileSystem-Git-Notifications",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GitResetRequest",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

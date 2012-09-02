@@ -1,0 +1,19 @@
+{
+	"category" : "FileSystem-Git-Plumbing-Tests",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sortedHashes",
+		"hashDict",
+		"creator",
+		"repository" ],
+	"name" : "PackFileCreatorTests",
+	"pools" : [
+		 ],
+	"super" : "GitTestCase",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

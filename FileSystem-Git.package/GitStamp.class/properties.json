@@ -1,0 +1,19 @@
+{
+	"category" : "FileSystem-Git-Plumbing-Core",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		"DefaultEmail",
+		"DefaultName" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"name",
+		"email",
+		"timeStamp" ],
+	"name" : "GitStamp",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

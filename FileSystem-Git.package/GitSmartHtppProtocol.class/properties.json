@@ -1,0 +1,16 @@
+{
+	"category" : "FileSystem-Git-Remote",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GitSmartHtppProtocol",
+	"pools" : [
+		 ],
+	"super" : "GitHttpProtocol",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

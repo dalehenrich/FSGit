@@ -1,0 +1,17 @@
+{
+	"category" : "FileSystem-Git-Plumbing-Tests",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"repository",
+		"repoDir" ],
+	"name" : "GitCommitTests",
+	"pools" : [
+		 ],
+	"super" : "GitTestCase",
+	"traitcomposition" : "{}",
+	"type" : "normal" }

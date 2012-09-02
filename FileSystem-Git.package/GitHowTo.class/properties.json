@@ -1,0 +1,16 @@
+{
+	"category" : "FileSystem-Git-Help",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GitHowTo",
+	"pools" : [
+		 ],
+	"super" : "HelpOnFileSystemGit",
+	"traitcomposition" : "{}",
+	"type" : "normal" }
