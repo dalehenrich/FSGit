@@ -9,7 +9,9 @@
 	"instvars" : [
 		"basicRepository",
 		"fsRepository",
-		"workingCopy" ],
+		"workingCopy",
+		"shouldValidateRepos",
+		"reference" ],
 	"name" : "GitFilesystemUsageTests",
 	"pools" : [
 		 ],

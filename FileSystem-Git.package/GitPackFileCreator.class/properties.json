@@ -2,7 +2,7 @@
 	"category" : "FileSystem-Git-Plumbing-Packs",
 	"classinstvars" : [
 		 ],
-	"classtraitcomposition" : "{}",
+	"classtraitcomposition" : "TGitVisitor classTrait",
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
@@ -18,5 +18,5 @@
 	"pools" : [
 		 ],
 	"super" : "Object",
-	"traitcomposition" : "{}",
+	"traitcomposition" : "TGitVisitor",
 	"type" : "normal" }

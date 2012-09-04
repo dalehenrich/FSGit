@@ -11,6 +11,6 @@
 	"name" : "GitHowTo",
 	"pools" : [
 		 ],
-	"super" : "HelpOnFileSystemGit",
+	"super" : "HelpOnGit",
 	"traitcomposition" : "{}",
 	"type" : "normal" }

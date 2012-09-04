@@ -1,7 +1,7 @@
 tests
 testFullTags
 	| commit tags tag|
-	commit := basicRepository objectWithSignature: (basicRepository resolveRef: 'refs/heads/branch1').
+	commit := basicRepository objectNamed: (basicRepository resolveRef: 'refs/heads/branch1').
 	[[ tag := GitTag
 		makeFullTag: 'version 4.3alpha'
 		for: commit
@@ -16,6 +16,6 @@ testFullTags
 	
 	self assert: tags size = 1.
 	
-	self assert: tags keys first = tag.
-	self assert: tags values first species = FileSystemGit.
-	self assert: tags values first revision = commit.
+	self assert: tags keys first equals: tag.
+	self assert: tags values first species equals: GitFilesystem.
+	self assert: tags values first revision equals: commit.
