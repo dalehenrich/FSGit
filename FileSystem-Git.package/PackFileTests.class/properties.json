@@ -2,7 +2,6 @@
 	"category" : "FileSystem-Git-Plumbing-Tests",
 	"classinstvars" : [
 		 ],
-	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
@@ -16,5 +15,4 @@
 	"pools" : [
 		 ],
 	"super" : "GitTestCase",
-	"traitcomposition" : "{}",
 	"type" : "normal" }

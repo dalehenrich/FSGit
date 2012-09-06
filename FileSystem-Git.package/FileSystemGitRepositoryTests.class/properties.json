@@ -2,7 +2,6 @@
 	"category" : "FileSystem-Git-Tests",
 	"classinstvars" : [
 		 ],
-	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
@@ -14,5 +13,4 @@
 	"pools" : [
 		 ],
 	"super" : "GitTestCase",
-	"traitcomposition" : "{}",
 	"type" : "normal" }

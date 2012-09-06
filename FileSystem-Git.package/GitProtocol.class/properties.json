@@ -2,7 +2,6 @@
 	"category" : "FileSystem-Git-Remote",
 	"classinstvars" : [
 		 ],
-	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
@@ -13,5 +12,4 @@
 	"pools" : [
 		 ],
 	"super" : "AbstractGitProtocol",
-	"traitcomposition" : "{}",
 	"type" : "normal" }

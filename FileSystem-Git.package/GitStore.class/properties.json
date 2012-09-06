@@ -2,7 +2,6 @@
 	"category" : "FileSystem-Git",
 	"classinstvars" : [
 		 ],
-	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
 	"commentStamp" : "CamilloBruni 8/1/2011 18:33",
@@ -16,5 +15,4 @@
 	"pools" : [
 		 ],
 	"super" : "FileSystemStore",
-	"traitcomposition" : "{}",
 	"type" : "normal" }

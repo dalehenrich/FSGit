@@ -2,7 +2,6 @@
 	"category" : "FileSystem-Git",
 	"classinstvars" : [
 		 ],
-	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
 	"commentStamp" : "CamilloBruni 8/1/2011 18:32",
@@ -13,5 +12,4 @@
 	"pools" : [
 		 ],
 	"super" : "Object",
-	"traitcomposition" : "{}",
 	"type" : "normal" }
