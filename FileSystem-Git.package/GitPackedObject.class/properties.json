@@ -7,16 +7,17 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"pack",
-		"file",
-		"length",
-		"headerPos",
+		"sourceStream",
+		"startPosition",
 		"unpackedBytes",
 		"repository",
 		"typeByte",
 		"crc",
-		"packedLength" ],
+		"dataStartPosition",
+		"lengthInPack",
+		"unpackedLength" ],
 	"name" : "GitPackedObject",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "GitAbstractObject",
 	"type" : "normal" }

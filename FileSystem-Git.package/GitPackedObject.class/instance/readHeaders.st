@@ -1,4 +1,4 @@
 processing
 readHeaders
-	typeByte := file peek.
-	length := self readUnpackedDataSize
+	typeByte := self sourceStream peek.
+	self unpackedLength:  self readUnpackedDataSize
