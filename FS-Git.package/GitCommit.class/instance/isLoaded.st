@@ -1,3 +1,0 @@
-lazy-loading
-isLoaded
-	^ isLoaded

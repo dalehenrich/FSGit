@@ -1,3 +1,0 @@
-accessing
-packageNamesUnderTest
-	^ #('FS-Git')

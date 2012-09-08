@@ -1,3 +1,0 @@
-helpers
-referenceMessage
-	^'testfile commit'

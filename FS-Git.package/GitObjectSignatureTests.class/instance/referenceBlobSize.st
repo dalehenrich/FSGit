@@ -1,3 +1,0 @@
-helpers
-referenceBlobSize
-	^8

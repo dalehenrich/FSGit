@@ -1,3 +1,0 @@
-accessing
-tagNames
-	^ repository tagNames

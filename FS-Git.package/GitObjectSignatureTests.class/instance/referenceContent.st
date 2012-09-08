@@ -1,3 +1,0 @@
-helpers
-referenceContent
-	^'testfile'

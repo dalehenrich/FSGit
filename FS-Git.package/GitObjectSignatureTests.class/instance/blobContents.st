@@ -1,3 +1,0 @@
-helpers
-blobContents
-	^ 'aString' asByteArray

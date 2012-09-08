@@ -1,3 +1,0 @@
-private
-readFinalObjectSize
-	^ self readVariableInteger

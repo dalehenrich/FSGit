@@ -1,3 +1,0 @@
-helpers
-isEntryBlob
-	^ self hasBlobSignature

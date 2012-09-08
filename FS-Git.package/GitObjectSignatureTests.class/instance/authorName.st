@@ -1,3 +1,0 @@
-helpers
-authorName
-	^'Homer Simpson'

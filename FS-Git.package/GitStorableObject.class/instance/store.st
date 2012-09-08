@@ -1,3 +1,0 @@
-saving
-store
-	self subclassResponsibility

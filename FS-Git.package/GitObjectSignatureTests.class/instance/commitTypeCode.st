@@ -1,3 +1,0 @@
-helpers
-commitTypeCode
-	^ GitCommit typeCode

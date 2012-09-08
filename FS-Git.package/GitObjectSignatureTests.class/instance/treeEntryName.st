@@ -1,3 +1,0 @@
-helpers
-treeEntryName
-	^ 'a filename'

@@ -1,3 +1,0 @@
-helpers
-commitMessage
-	^ 'the message'
