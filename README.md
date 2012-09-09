@@ -24,6 +24,7 @@ This repository is part proof of concept and part backup for the development of 
   Gofer new
   squeaksource3: 'FileSystem-Git';
   package: 'FileSystem-Git';
+  package: 'System-Hashing';
   load
 ```
 </ul>
