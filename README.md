@@ -15,13 +15,13 @@ This repository is part proof of concept and part backup for the development of 
   Gofer new
     squeaksource3: 'Pharo20';
     package: 'FileSystem-Core';
-	  package: 'FileSystem-Disk';
-  	package: 'FileSystem-Memory';
+    package: 'FileSystem-Disk';
+    package: 'FileSystem-Memory';
     package: 'FileSystem-AnsiStreams';
-  	package: 'FileSystem-Tests-Core';
-  	package: 'FileSystem-Tests-Disk';
-  	package: 'FileSystem-Tests-Memory';
-  	package: 'FileSystem-Tests-AnsiStreams';
+    package: 'FileSystem-Tests-Core';
+    package: 'FileSystem-Tests-Disk';
+    package: 'FileSystem-Tests-Memory';
+    package: 'FileSystem-Tests-AnsiStreams';
     load
 ```
 
