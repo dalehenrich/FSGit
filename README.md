@@ -13,18 +13,25 @@ This repository is part proof of concept and part backup for the development of 
 
 ```smalltalk
   Gofer new
-  squeaksource3: 'Pharo20';
-  package: 'FileSystem';
-  load
+    squeaksource3: 'Pharo20';
+    package: 'FileSystem-Core';
+	  package: 'FileSystem-Disk';
+  	package: 'FileSystem-Memory';
+    package: 'FileSystem-AnsiStreams';
+  	package: 'FileSystem-Tests-Core';
+  	package: 'FileSystem-Tests-Disk';
+  	package: 'FileSystem-Tests-Memory';
+  	package: 'FileSystem-Tests-AnsiStreams';
+    load
 ```
 
 <li>Load FileSystem-Git:</li>
 
 ```smalltalk
   Gofer new
-  squeaksource3: 'FileSystem-Git';
-  package: 'System-Hashing';
-  package: 'FileSystem-Git';
-  load
+    squeaksource3: 'FileSystem-Git';
+    package: 'System-Hashing';
+    package: 'FileSystem-Git';
+    load
 ```
 </ul>
