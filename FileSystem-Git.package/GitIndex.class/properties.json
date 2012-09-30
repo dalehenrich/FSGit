@@ -1,13 +1,13 @@
 {
-	"category" : "FileSystem-Git-Core",
+	"category" : "FileSystem-Git-Plumbing-Core",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "",
 	"instvars" : [
-		"repository" ],
-	"name" : "FileSystemGitRepository",
+		 ],
+	"name" : "GitIndex",
 	"pools" : [
 		 ],
 	"super" : "Object",
