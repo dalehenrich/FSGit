@@ -29,7 +29,7 @@ This repository is part proof of concept and part backup for the development of 
 
 ```smalltalk
   Gofer new
-    squeaksource3: 'FileSystem-Git';
+    url: 'http://smalltalkhub.com/mc/MaxLeske/FileSytem-Git/main';
     package: 'System-Hashing';
     package: 'FileSystem-Git';
     load
